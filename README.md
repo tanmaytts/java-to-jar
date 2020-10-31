@@ -13,7 +13,7 @@ Type <br>
 In the terminal
 # 5. Create a manifest file
 Type <br>
-```jar cvfe <new-file-name>.jar Craps <file-name>.class```
+```jar cvfe <new-file-name>.jar <file-name>.class```
 # 6. Testing and Completion
 Type <br>
 ```java -jar <new-file-name>.jar```
