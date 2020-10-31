@@ -15,5 +15,5 @@ Type <br>
 # 6 Testing and Completion
 Type <br>
 ```java -jar <new-file-name>.jar```
-<br>OR
+<br> OR <br>
 ```<new-file-name>.jar```
